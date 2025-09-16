@@ -9,4 +9,4 @@ Major: Computer Science Engineering
 
 Grade: 2
 
-
+Class: B
